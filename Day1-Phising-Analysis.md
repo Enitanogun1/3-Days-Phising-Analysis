@@ -4,7 +4,7 @@
 
 ## 🎯 **Lab Objective**
 
-Learn how to analyze a phishing email by examining headers, body, URLs, and attachments. Understand different phishing types and techniques, and how to use open-source tools to investigate and extract Indicators of Compromise (IOCs).
+Learn to break down phishing emails by examining their headers, body text, embedded URLs, and attachments. Explore common phishing types and techniques, then practice using open-source tools to investigate and extract Indicators of Compromise (IOCs).
 
 ---
 
